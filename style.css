@@ -416,7 +416,7 @@ header#header .header-bottom#wide-nav .custom-comp ul li.menu-item-has-children 
 .nav-dropdown-has-arrow li.has-dropdown:before {
 	display: none;
 }
-
+ 
 header#header {
 	border-bottom: 1px solid #e6e6e6;
 }
